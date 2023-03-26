@@ -7,7 +7,7 @@
 //   Date:   6/16/2022
 //
 //   Input:  the user will input a number 1-9 with will be were the X will be placed on the board 
-//   Output: board with X and O indicating player 1 (user0 and player 2 (computer) 
+//   Output: board with X and O indicating player 1 (user 1 and player 2 (computer) 
 //    
 //
 // ////////////////////////////////////////////////////////////////// */
